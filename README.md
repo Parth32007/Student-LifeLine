@@ -88,8 +88,14 @@ Jury members can test the application locally in **less than 2 minutes** without
    npm run dev
    ```
 
-4. **Open in Browser**:
-   Navigate to `http://localhost:5173`. Click **⚡ 1-Click Instant Demo** or **Sign In** to immediately explore all features!
+4. **Open in Browser & Log In**:
+   Navigate to `http://localhost:5173`. You can log in using either the **⚡ 1-Click Instant Demo** button or the following credentials:
+
+> [!TIP]
+> ### 🔑 Jury Evaluation Login Credentials
+> - **Email**: `john@gmail.com`
+> - **Password**: `john123`
+> *(Any email/password will also auto-authenticate in zero-config mode).*
 
 ---
 
