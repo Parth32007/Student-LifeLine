@@ -4,7 +4,8 @@
 > A personalized, syllabus-grounded academic operating system for ambitious university students. Featuring automated daily study missions, textbook-grounded Gemini AI tutor with RAG source citations, SM-2 active recall flashcards, 7-day exam readiness forecasting, and automated attendance tracking.
 
 ---
-
+VERCEL LINK :
+https://student-life-line.vercel.app/
 ## 🏛️ System Architecture
 
 Student Lifeline is engineered using a decoupled, multi-tier architecture designed for security, scalability, and instant jury evaluation:
